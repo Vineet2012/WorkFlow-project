@@ -27,7 +27,7 @@ export default function WorkFlowListPage() {
       <div>
         <WorkFlowTitle label={"Workflows"} />
         <div>
-          <table className="table table-bordered table">
+          <table className="table table-bordered table table-striped table-hover">
             <thead>
               <tr className="table-heading">
                 <th scope="col">Name</th>
