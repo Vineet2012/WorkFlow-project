@@ -74,7 +74,7 @@ export default function DesignerPage() {
 
   return (
     <div className="designerPage-wrapper">
-      <WorkFlowTitle label={workflow.name} />
+      <WorkFlowTitle label={"Workflow name: " + "" + workflow.name} />
       <div className="vertical"></div>
       <div style={{ display: "flex" }}>
         <div className="module-wrapper">

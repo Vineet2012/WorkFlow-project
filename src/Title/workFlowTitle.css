@@ -1,9 +1,7 @@
 .workFlow-title {
   display: flex;
-  background-color: #696969;
   height: 10vh;
-  color: white;
-  justify-content: center;
+  border: 2px solid #1ab1f8;
   align-items: center;
   font-size: 20px;
   font-weight: 700;
