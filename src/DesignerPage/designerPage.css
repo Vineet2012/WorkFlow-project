@@ -1,0 +1,27 @@
+.designerPage-wrapper {
+  margin: 0;
+  position: relative;
+}
+
+.designerPage-wrapper .vertical {
+  border-right: 2px solid #1ab1f8;
+  height: 90vh;
+  position: absolute;
+  left: 32%;
+}
+
+.designerPage-wrapper .module-wrapper {
+  width: 47%;
+}
+
+.designerPage-wrapper .module-wrapper .heading {
+  border-bottom: 2px solid #1ab1f8;
+  padding: 16px;
+}
+
+.designerPage-wrapper .module-wrapper .module-list {
+  margin: 16px 8% 0px 8%;
+  color: black;
+  list-style-type: none;
+  display: flex;
+}

@@ -1,0 +1,10 @@
+.workFlow-title {
+  display: flex;
+  background-color: #696969;
+  height: 10vh;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  font-weight: 700;
+}

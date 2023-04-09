@@ -1,0 +1,17 @@
+.workflow-wrapper {
+  margin: 0;
+}
+
+.workflow-wrapper .table {
+  border: 1px solid #d1d1d1;
+  width: 80%;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px;
+}
+
+.workflow-wrapper .table-heading {
+  background-color: #6a5acd;
+  color: white;
+}

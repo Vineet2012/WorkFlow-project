@@ -1,0 +1,5 @@
+.pagination-wrapper {
+  margin: 8% 0px 0px 8%;
+  max-width: 80%;
+  overflow: auto;
+}
